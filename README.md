@@ -15,7 +15,7 @@
 <a href="https://stackoverflow.com/users/16098181/sachin-kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="16098181" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/theCoderbro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="theCoderbro" height="30" width="40" /></a>
 <a href="https://leetcode.com/Sachin321/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Sachin321" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/techhub1/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="techhub1" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/techhub1/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="techhub1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
